@@ -1,0 +1,43 @@
+id,venue,latitude,longitude,dates
+42,Rogers Centre,43.64166,-79.389198,6
+41,Lucas Oil Stadium,39.759062,-86.163838,3
+40,Caesars Superdome,29.951049,-90.082308,3
+39,Hard Rock Stadium,25.957903,-80.23885,3
+38,Wembley Stadium,51.556069,-0.27960339,6
+37,Principality Stadium,51.478295,-3.1837047,1
+36,Anfield,53.430836,-2.9609095,3
+35,Murrayfield Stadium,55.942109,-3.2411612,3
+34,Groupama Stadium,45.765362,4.9820543,2
+33,Santiago Bernabéu Stadium,40.453023,-3.6874057,1
+32,Estádio da Luz,38.752689,-9.1846899,2
+31,Friends Arena,59.372504,18.001667,3
+30,Paris La Défense Arena,48.895677,2.2296581,4
+29,Singapore National Stadium,1.3044909,103.87434,6
+28,Accor Stadium,-33.847108,151.06338,4
+27,Melbourne Cricket Ground,-37.819909,144.98323,3
+26,Tokyo Dome,35.705571,139.75197,4
+25,Allianz Parque,-23.527497,-46.678528,3
+24,Estádio Olímpico Nilton Santos,-22.893194,-43.293569,3
+23,Estadio River Plate,-34.545298,-58.449738,3
+22,Foro Sol,19.40511,-99.095704,3
+21,SoFi Stadium,33.953407,-118.33901,5
+20,Levi’s Stadium,37.403158,-121.96983,2
+19,Lumen Field,47.595346,-122.33164,2
+18,Empower Field,39.743952,-105.01922,1
+17,Arrowhead Stadium,39.04894,-94.484994,2
+16,Paycor Stadium,39.095464,-84.516049,2
+15,US Bank Stadium,44.973615,-93.257466,2
+14,Acrisure Stadium,40.446716,-80.015755,2
+13,Ford Field stadium,42.339957,-83.045617,2
+12,Soldier Field,41.862451,-87.616715,3
+11,MetLife Stadium,40.813524,-74.073401,3
+10,Gillette Stadium,42.091253,-71.264465,3
+9,Lincoln Financial Field,39.90091,-75.167489,3
+8,Nissan Stadium,35.509988,139.60638,3
+7,Mercedes-Benz Stadium,33.755412,-84.400849,3
+6,NRG Stadium,29.684858,-95.410801,3
+5,Raymond James Stadium,27.975979,-82.504218,3
+4,AT&T Stadium,32.74785,-97.092834,3
+3,Allegiant Stadium,36.090835,-115.18343,2
+2,Brooklyn Bowl,40.722053,-73.957549,1
+1,State Farm Stadium,33.527796,-112.26267,2
