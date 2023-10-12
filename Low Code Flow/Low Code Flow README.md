@@ -3,7 +3,7 @@
 Welcome to "Low Code Flow: Using CARTO Workflows for low code repeatable spatial analytics"
 
 Some things you need to know:
-* It is HIGHLY recommended you use the CARTO organization specific to this event. The needed to follow along with this workshop is stored in a BigQuery instance that is accessible from that CARTO organization.
+* It is HIGHLY recommended you use the CARTO organization specific to this event. The data needed to follow along with this workshop are stored in a BigQuery instance that is accessible from that CARTO organization.
 * You should have received an email inviting you to a CARTO organization specific to this event. Please follow the steps in that email -  and make sure you check your spam if you can't find it.
 * If you don't have an email invitation, please email marketing@carto.com and they should be able to help.
 * If you already have your own CARTO account, please let me know so I can issue you a new invite with an alias (email+sdsc@gmail.com, for example) so you can access the org.
