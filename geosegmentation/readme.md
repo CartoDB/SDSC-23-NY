@@ -11,3 +11,5 @@ If you already have your own CARTO account, you can download the datasets from t
 ##The slides https://docs.google.com/presentation/d/1wTAuYTDRAbYSPLTOnPTJliPqxyUZtaQmTyGUIXrcxH0/edit?usp=sharing
 
 ##The worksheet https://docs.google.com/document/d/1AMMJcgDvaKVTWXTHfagzI1sTixdug8mk6sek78KCGMs/edit?usp=sharing
+
+Please note that some organizations do not let you view Google docs created by other organizations. If you have trouble accessing either of the above, try signing out of your company Google account.
