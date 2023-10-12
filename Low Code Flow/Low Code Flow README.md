@@ -15,7 +15,8 @@ The workshop is broken into three parts:
 * An exploratory session where there will be a challenge to complete
 
 ## The slides
-
+## The workflow
+https://clausa.app.carto.com/workflows/acc11d69-a533-4350-a1f6-d6298d6e6f96
 ## The worksheet
 https://docs.google.com/document/d/1b-Gm1YtlDDABpOYOsyg7ZT4pe4eJfuchWsS8bYXgVJo/edit?usp=sharing
 ## Tips & Tricks
