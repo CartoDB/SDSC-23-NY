@@ -1,5 +1,9 @@
 # Taming Big Data with Spatial Indexing
 
+## Slides
+
+The slide deck for this workshop can be found [here](https://docs.google.com/presentation/d/174nAsJsfP_HJryF5L3H01lZaTscO7TuTvUB3r2_kKXg/edit?usp=sharing).
+
 ## Data
 
 The data used in this workshop has been imported into BigQuery in advance. The tables we'll use include:
