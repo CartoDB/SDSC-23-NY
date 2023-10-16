@@ -3,10 +3,9 @@ Welcome to "Blank spaces: Using geosegmentation & financial data to learn which 
 
 Some things you need to know:
 
-You should have recieved an email inviting you to a CARTO organization specific to this event. Please follow the steps in that email - and make sure you check your spam if you can't find it!
-If you don’t have an email, please email marketing@carto.com and they should be able to help.
+You should have recieved an email inviting you to a CARTO organization specific to this event. Please follow the steps in that email - and make sure you check your spam if you can't find it! If you already have your own CARTO account, you can download the datasets from this github and upload them to your cloud data warehouse (or the CARTO Data Warehouse).
 
-If you already have your own CARTO account, you can download the datasets from this github and upload them to your cloud data warehouse (or the CARTO Data Warehouse).
+If you don’t have an email, please email marketing@carto.com and they should be able to help.
 
 ##The slides https://docs.google.com/presentation/d/1wTAuYTDRAbYSPLTOnPTJliPqxyUZtaQmTyGUIXrcxH0/edit?usp=sharing
 
