@@ -45,7 +45,7 @@ inner join _h3_area_of_interest using (h3)
 ```sql
 with _data_as_h3 as (
   select
-    `carto-un`.carto.H3_FROMGEOGPOINT(geom, 10) as h3
+    `carto-un`.carto.H3_FROMGEOGPOINT(geom, 11) as h3
   from
     SDSC23_NYC_indexes.manhattan_311_rodent_service_requests
 )
@@ -56,16 +56,29 @@ from _data_as_h3
 group by h3
 ```
 
+## Demo
+
 ### SQL Parameter within Builder
+
+Connect the H3 aggregation to the SQL parameter
 
 ```sql
 with _data_as_h3 as (
-  select `carto-un`.carto.H3_FROMGEOGPOINT(geom, 10) as h3
+  select `carto-un`.carto.H3_FROMGEOGPOINT(geom, 11) as h3
   from SDSC23_NYC_indexes.manhattan_311_rodent_service_requests
   where parse_date('%m/%d/%Y', split(created_date, ' ')[ordinal(1)])
-  	between {{date_from}} and {{date_to}}
+  between {{date_from}} and {{date_to}}
 )
 select h3, count(*) as num_requests
 from _data_as_h3
 group by h3
+```
+
+Connect the point layer to the SQL parameter
+
+```sql
+select *
+from SDSC23_NYC_indexes.manhattan_311_rodent_service_requests
+where parse_date('%m/%d/%Y', split(created_date, ' ')[ordinal(1)])
+between {{date_from}} and {{date_to}}
 ```
