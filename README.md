@@ -9,6 +9,7 @@ Welcome to the SDSC Conference Workshops repository! Here, you will find informa
 **Presenter:** Sohaib Katariwala, Analytics Specialist Solutions Architect at AWS
 
 With continuous growth in the size of datasets and declining cost of storage, it’s becoming more common to use a data warehouse like Amazon Redshift for geospatial datasets. With AWS Data Exchange, you can find and subscribe to third-party data sets and seamlessly query them alongside your first party data in Amazon Redshift. In Amazon Redshift you can use spatial joins, built-in spatial functions, and machine learning models on your data directly in Amazon Redshift using SQL which analysts are already familiar with. By keeping the data in Amazon Redshift you can benefit from the best price-performance of any cloud data warehouse. With the geospatial capabilities enabled in Amazon Redshift, combined with the tools from CARTO, it’s possible to solve most spatial use cases natively in the cloud.
+
 [Workshop materials](https://catalog.us-east-1.prod.workshops.aws/workshops/b2b9b476-a213-4a02-917e-dcbfe2ba476f/en-US/aws-data-exchange-products/carto)
 
 
@@ -34,7 +35,8 @@ Zachary Walker presents low code workflows for repeatable spatial analytics usin
 **Presenter:** Venkatesh Seka, Principal Data Cloud Architect at Snowflake & Tomas Ehrenfeld, Senior Solutions Engineer at CARTO
 
 Venkatesh Seka provides a comprehensive guide to mastering geospatial analytics with Snowflake and CARTO. Learn how to leverage these tools to unlock valuable insights from your geospatial data. 
-[Workshop materials]((https://docs.google.com/presentation/d/1iCfvrh86WPgxqiNAEpBYCZLGUCb53zYCbzQO3z6n0RM/edit?usp=sharing))
+
+[Workshop materials](https://docs.google.com/presentation/d/1iCfvrh86WPgxqiNAEpBYCZLGUCb53zYCbzQO3z6n0RM/edit?usp=sharing)
 
 
 ### From Data to Action: Decision Science for Accelerated Business Results
@@ -50,14 +52,16 @@ See presentation #SDSCNY2023 Workshop_ From Data to Action (1).pptx in this gith
 Spatial data that changes over time presents difficulties because of the cost, time, and complexity to process and analyze at scale.  But this data holds valuable, latent and undiscovered insights that can make your analysis deeper (historically), broader (spatially), faster (analytically), and stronger! 
 
 Join us for a fun and interactive session with Josh and Robert, senior data scientists who specialise in working with global-scale, spatiotemporal datasets. In this session, you'll use CARTO, Python and other familiar technologies to explore and overcome some of the most complex and challenging examples of geospatial analysis, get a glimpse into the future of geospatial data science and pocket some actionable takeaways.
-*[Workshop materials]((https://sdsc-2023-workshop-nyc.ds.generalsystem.com/welcome.html))
+
+[Workshop materials](https://sdsc-2023-workshop-nyc.ds.generalsystem.com/welcome.html)
 
 
 ### Spatial Data Science with PySAL: An Introduction to Geodemographic Segmentation and Urban Economic Structure
 **Presenter:** Eli Knaap, Senior Research Scientist & Associate Director at SDSU Center for Open Geographical Science
 
 This tutorial provides an introduction to urban spatial analysis using PySAL and geosnap, demonstrating how to use spatial data science to uncover market areas in the city for both residential and employment markets. The tutorial first introduces geodemographic segmentation and regionalization as techniques for understanding the consumer structure of a metropolitan region, and then introduces the combination of spatial autocorrelation measures with computational geometry as a method for uncovering employment market areas in the city. These analytics can be used to better understand the existing and emerging "spatial structure" of a city, identify targeted uses in different portions of the region, and coordinate the co-location of other goods and services like transportation and accommodation.
-*[Workshop materials]((https://github.com/knaaptime/carto_sdsc23))
+
+[Workshop materials](https://github.com/knaaptime/carto_sdsc23)
 
 
 ### A Data-Driven Approach to Flooding & Climate Risk Design to Enhance Supply Chain Network Resilience
@@ -70,7 +74,7 @@ Over 125 billion dollars were lost in damage due to Hurricane Harvey. Whether yo
 **Presenter:** James McClain, Machine Learning Lead & Matt Bialas, Senior Software Engineer at element84
 
 Thousands of Earth Observation (EO) satellites are flying overhead, thanks to the SmallSat revolution. With space-to-ground bandwidth struggling to keep pace, availability windows come at a premium. In this workshop, you'll explore the benefits of pre-processing data using Python to train a Machine Learning (ML) model that pre-select only high-quality imagery for downlink. The model will be lightweight, and capable of running on off-the-shelf, space-ready hardware.
-*[Workshop materials](([https://github.com/knaaptime/carto_sdsc23](https://gist.github.com/MattBialas/580ba37db395c8ef8e7cf22aaca44e5d)))
+[Workshop materials]([https://github.com/knaaptime/carto_sdsc23](https://gist.github.com/MattBialas/580ba37db395c8ef8e7cf22aaca44e5d)
 
 
 ### ML on the Edge: Planet-scale spatial analysis with Google EarthEngine and BigQuery
