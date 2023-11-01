@@ -9,7 +9,7 @@ Welcome to the SDSC Conference Workshops repository! Here, you will find informa
 **Presenter:** Sohaib Katariwala, Analytics Specialist Solutions Architect at AWS
 
 With continuous growth in the size of datasets and declining cost of storage, it’s becoming more common to use a data warehouse like Amazon Redshift for geospatial datasets. With AWS Data Exchange, you can find and subscribe to third-party data sets and seamlessly query them alongside your first party data in Amazon Redshift. In Amazon Redshift you can use spatial joins, built-in spatial functions, and machine learning models on your data directly in Amazon Redshift using SQL which analysts are already familiar with. By keeping the data in Amazon Redshift you can benefit from the best price-performance of any cloud data warehouse. With the geospatial capabilities enabled in Amazon Redshift, combined with the tools from CARTO, it’s possible to solve most spatial use cases natively in the cloud.
-*:Workshop materials: <https://catalog.us-east-1.prod.workshops.aws/workshops/b2b9b476-a213-4a02-917e-dcbfe2ba476f/en-US/aws-data-exchange-products/carto>
+[Workshop materials](https://catalog.us-east-1.prod.workshops.aws/workshops/b2b9b476-a213-4a02-917e-dcbfe2ba476f/en-US/aws-data-exchange-products/carto)
 
 
 ### Blank spaces: Using Geosegmentation & Financial Data
