@@ -34,7 +34,7 @@ Zachary Walker presents low code workflows for repeatable spatial analytics usin
 **Presenter:** Venkatesh Seka, Principal Data Cloud Architect at Snowflake & Tomas Ehrenfeld, Senior Solutions Engineer at CARTO
 
 Venkatesh Seka provides a comprehensive guide to mastering geospatial analytics with Snowflake and CARTO. Learn how to leverage these tools to unlock valuable insights from your geospatial data. 
-*[Workshop materials]((https://docs.google.com/presentation/d/1iCfvrh86WPgxqiNAEpBYCZLGUCb53zYCbzQO3z6n0RM/edit?usp=sharing))
+[Workshop materials]((https://docs.google.com/presentation/d/1iCfvrh86WPgxqiNAEpBYCZLGUCb53zYCbzQO3z6n0RM/edit?usp=sharing))
 
 
 ### From Data to Action: Decision Science for Accelerated Business Results
