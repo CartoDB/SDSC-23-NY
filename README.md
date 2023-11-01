@@ -74,7 +74,8 @@ Over 125 billion dollars were lost in damage due to Hurricane Harvey. Whether yo
 **Presenter:** James McClain, Machine Learning Lead & Matt Bialas, Senior Software Engineer at element84
 
 Thousands of Earth Observation (EO) satellites are flying overhead, thanks to the SmallSat revolution. With space-to-ground bandwidth struggling to keep pace, availability windows come at a premium. In this workshop, you'll explore the benefits of pre-processing data using Python to train a Machine Learning (ML) model that pre-select only high-quality imagery for downlink. The model will be lightweight, and capable of running on off-the-shelf, space-ready hardware.
-[Workshop materials]([https://github.com/knaaptime/carto_sdsc23](https://gist.github.com/MattBialas/580ba37db395c8ef8e7cf22aaca44e5d)
+
+[Workshop materials](https://github.com/knaaptime/carto_sdsc23)
 
 
 ### ML on the Edge: Planet-scale spatial analysis with Google EarthEngine and BigQuery
